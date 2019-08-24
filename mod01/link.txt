@@ -1,0 +1,3 @@
+Conv operation in a RNN: https://stackoverflow.com/questions/49603498/convolution2d-lstm-versus-convlstm2d
+
+https://machinelearningmastery.com/how-to-avoid-exploding-gradients-in-neural-networks-with-gradient-clipping/
